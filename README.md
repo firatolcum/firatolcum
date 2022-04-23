@@ -1,1 +1,2 @@
-## Hi there 👋  NAME is here. (LOADING...)
+## Hi there 👋  My name is Fırat.
+
