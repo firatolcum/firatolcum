@@ -1,5 +1,5 @@
 <p>
-  <img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=firatolcum&theme=blue-green"/>
+  <img align="right" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=firatolcum&theme=blue-green"/>
   <p>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white "/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
