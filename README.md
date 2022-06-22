@@ -17,17 +17,17 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
-    <br/>
+
   </p>
   <p>
-    📣 My Education Sources:<br/><br/>
+    📣 My Education Sources:<br/>
     <a href="https://www.codecademy.com/profiles/firatolcum" target="_blank"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347 "/></a>
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/E7GX3UYVZFGJ" target="_blank"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/></a>
     <a href="https://www.datacamp.com/profile/firatolcum" target="_blank"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/></a>
   </p>
 
 <p>
-  📣 Do you need to contact me? Find me here:<br/><br/>
+  📣 Do you need to contact me? Find me here:<br/>
   <a href="mailto:firatolcum@gmail.com?&body=Hello%20Fırat." target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/firatolcum/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
