@@ -21,9 +21,9 @@
   </p>
   </p>
   📣 My Education Sources:<br/>
-    <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347 "/></a>
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/></a>
+    <a href="https://www.codecademy.com/profiles/firatolcum" target="_blank"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347 "/></a>
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/E7GX3UYVZFGJ" target="_blank"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/></a>
+    <a href="https://www.datacamp.com/profile/firatolcum" target="_blank"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/></a>
   </p>
 </p>
 <p>
