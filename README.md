@@ -12,16 +12,17 @@
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white "/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/></a>
+      <a href="#" target="https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white"/></a>
+    <a href="#" target="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM-Watson&logoColor=white"/></a>  
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white"/></a>
-    
-    
-    
+  
  </p>
  <p>
   📣 Python libraries:<br/>
