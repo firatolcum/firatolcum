@@ -1,5 +1,6 @@
-<p>
-  <img align="right" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=firatolcum&theme=blue-green"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40B831&multiline=true&height=80&lines=Hi!+My+name+is+F%C4%B1rat.;I+am+a+Data+Analyst.;DS+%7C+ML+%7C+AI+Enthusiastic.)](https://git.io/typing-svg)
+<img align="right" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=firatolcum&theme=blue-green"/>
   <p>
     ⭐️ Tools:<br/>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white "/></a>
