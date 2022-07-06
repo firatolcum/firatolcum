@@ -76,5 +76,5 @@
   <a href="mailto:firatolcum@gmail.com?&body=Hello%20Fırat." target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/firatolcum/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firatolcum" alt = "firatolcum" /> </p>
+
 
