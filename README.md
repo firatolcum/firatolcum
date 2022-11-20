@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40B831&multiline=true&height=80&lines=Hi!+My+name+is+F%C4%B1rat.;I+am+a+Data+Analyst.;DS+%7C+ML+%7C+AI+Enthusiastic.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40B831&multiline=true&height=80&lines=Hi!+My+name+is+F%C4%B1rat.;I+am+a+Data+Scientist.;I+am+a+Data+Analyst.;DS+%7C+ML+%7C+AI+Enthusiastic.)](https://git.io/typing-svg)
 <img align="right" width="380" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=firatolcum&theme=blue-green" width="380" height="200" />
   <p>
     <b>⭐️ Tools:</b><br/>
