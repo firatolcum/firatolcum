@@ -66,7 +66,6 @@
     <a href="https://www.datacamp.com/profile/firatolcum" target="_blank"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/></a>
    <a href="https://www.sololearn.com/profile/25116000" target="_blank"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/></a>
   </p>
-
 <p>
   <b>💬 Do you need to contact me? Find me here:</b><br/>
   <a href="mailto:firatolcum@gmail.com?&body=Hello%20Fırat." target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
