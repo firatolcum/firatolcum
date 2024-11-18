@@ -49,7 +49,6 @@
     <a href="https://public.tableau.com/app/profile/f.rat3647#!/?newProfile=true&activeTab=0" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/></a>
     <a href="https://www.hackerrank.com/Firat_Olcum" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href="https://www.kaggle.com/fratolcum" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
-    <a href="https://www.upwork.com/freelancers/~01e2e0109d926e16d1" target="_blank"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
   </p>
   
   <p> 
