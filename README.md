@@ -7,9 +7,7 @@
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a><br/>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white "/></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM-Watson&logoColor=white"/></a><br/>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/></a>
@@ -22,7 +20,6 @@
  <p>
   <b>🛠 Python IDEs:</b><br/>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/></a>
  </p>
  <p>
